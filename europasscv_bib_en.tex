@@ -1,125 +1,147 @@
 \documentclass[english,a4paper]{europasscv}
 \usepackage[english]{babel}
-
 \usepackage[backend=biber,autolang=hyphen,sorting=none,style=numeric,maxbibnames=99,doi=false,isbn=false,maxcitenames=2]{biblatex}
 \usepackage{csquotes}
-\usepackage{europasscv-bibliography}
+% \usepackage{europasscv-bibliography}
+\usepackage{hyperref}
 
+% Define the bibliography file (if needed)
+%\addbibresource{your_bibliography.bib}
 \bibliography{europasscv_example}
 % in the bibliography, mark all occurrences in bold:
-\ecvbibhighlight{Smith}{Katie}{K.}
 
-\ecvname{Katie Smith}
-\ecvaddress{12 Strawberry Hill, Dublin 8 Éire/Ireland}
-\ecvmobile{+353 555 123 555}
-\ecvtelephone{+353 127 6689}
-\ecvworkphone{+353 999 888 777}
-\ecvemail{smith@kotmail.com another@email.com}
-\ecvhomepage{www.myhomepage.com www.another-homepage.com}
-% \ecvgithubpage{www.github.com/smith}
-% \ecvgitlabpage{www.gitlab.com/smith}
-% \ecvlinkedinpage{www.linkedin.com/in/katie-smith}
-% \ecvorcid[label, link]{0000-0000-0000-0000}
-\ecvim{AOL Messenger}{katie.smith}
-\ecvim{Google Talk}{ksmith}
-
-% \ecvgender{Female}
-\ecvdateofbirth{1 March 1975}
-\ecvnationality{Irish}
-
-% \ecvpicture[width=3.8cm]{picture.jpg}
-
-% \date{}
+\ecvname{Ahmed M. Elkholy}
+\ecvaddress{Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta University, 31521, Tanta, Gharbeya Governorate, Egypt (Egyptian work)}
+\ecvtelephone{(+20) 1062427898 (Mobile)}
+\ecvworkphone{(+7) 9967167257 (Home)}
+% \ecvemail{ }
+ \ecvemail{ahmed\_elkholy@f-eng.tanta.edu.eg ahm\_elkholy@outlook.com}
+\ecvhomepage{https://ahmelkholy.github.io http://tdb2.tanta.edu.eg/staff/ahmed_elkholy}
+\ecvlinkedinpage{https://www.linkedin.com/in/ahmelkholy/}
+\ecvorcid[label, link]{0000-0002-1834-1175}
+\ecvim{Whatsapp Messenger}{+7 (985) 637 78 86}
+\ecvdateofbirth{01/09/1992}
+\ecvnationality{Egyptian}
 
 \begin{document}
-  \begin{europasscv}
+\begin{europasscv}
 
-  \ecvpersonalinfo
-  \ecvbigitem{Job applied for}{European project manager}
+\ecvpersonalinfo
+\ecvbigitem{Job applied for}{European project manager}
+\ecvsection{Work Experience}
+\ecvtitle{01/07/2019 -- CURRENT}{Assistant Lecturer, Faculty of Engineering, Tanta University, Egypt}
+\ecvitem{}{To support the design, development, and production of learning and teaching material and deliver either across a range of modules or within a subject area. Ensure the efficient delivery of teaching programs in accordance with the University's strategy, policy, and procedures.}
 
-  \ecvsection{Work experience}
-  
-  \ecvtitle{August 2002 -- Present}{Independent consultant}
-  \ecvitem{}{National Youth Council of Ireland\newline 3 Montague Street, Dublin 2, D02 V327, Ireland}
-  \ecvitem{}{Evaluation of European Commission youth training support measures for youth national agencies and young people}
-   
-  \ecvtitle{March 2002 -- July 2002}{Internship}
-  \ecvitem{}{European Commission, Youth Unit, DG Education and Culture \newline 200, Rue de la Loi, 1049 Brussels (Belgium)}
-  \ecvitem{}{
-  \begin{ecvitemize}
-      \item evaluating youth training programmes and the partnership between the Council of Europe and European Commission
-      \item organizing and running a 2 day workshop on non-formal education for Action 5 large scale projects focusing on quality, assessment and recognition
-      \item contributing to the steering sroup on training and developing action plans on training for the next 3 years. Working on the Users Guide for training and the support measures
-  \end{ecvitemize}
-  }
-  \ecvitem{}{\ecvhighlight{Business or sector}\quad European institution}
-  
-  \ecvtitle{Oct 2001 -- Feb 2002}{Researcher / Independent Consultant}
-  \ecvitem{}{Council of Europe, Budapest (Hungary)}
-  \ecvitem{}{Working in a research team carrying out in-depth qualitative evaluation of the 2 year Advanced Training of Trainers in Europe using participant observations, in-depth interviews and focus groups. Work carried out in training courses in Strasbourg, Slovenia and Budapest.}
-  
-  
-  \ecvsection{Education and training}
-  
-  \ecvtitlelevel{1997--2001}{PhD - Thesis Title: ``Young People in the Construction of the Virtual University'', Empirical research on e-learning}{ISCED~6}
-  \ecvitem{}{Trinity College Dublin, The University of Dublin, Ireland
+\ecvtitle{03/2016 -- 07/2019}{Demonstrator, Faculty of Engineering, Tanta University, Egypt}
+\ecvitem{Objectives:}{
+\begin{ecvitemize}
+    \item To assist/give guidance, where required, to students who are carrying out practical exercises.
+    \item To be aware of any health and safety implications of procedures and take action to maintain a safe environment.
+    \item Provide feedback on student performance and any issues arising during the demonstration.
+    \item To assist in marking student tests set by the course organizer.
+    \item Ensure that equipment is functional and material for demonstrations, exercises, etc. is prepared before the start of the session.
+\end{ecvitemize}
+}
 
-  This is a citation to my PhD Thesis \cite{smith_phd}.}
-  
-  \ecvtitle{1993--1997}{Bachelor of Science in Sociology and Psychology}
-  \ecvitem{}{Trinity College Dublin, The University of Dublin, Ireland}
-  \ecvitem{}{
-      \begin{ecvitemize}
-	\item sociology of risk
-	\item sociology of scientific knowledge / information society
-	\item anthropology
-	\item E-learning and Psychology
-	\item research methods
-      \end{ecvitemize}
-  }
-  
-  \pagebreak
-  
-  \ecvsection{Personal skills}
-  \ecvmothertongue{English}
-  \ecvlanguageheader
-  \ecvlanguage{French}{C1}{C2}{B2}{C1}{C2}
-  \ecvlanguagecertificate{Diplôme d'études en langue française (DELF) B1}
-  \ecvlastlanguage{German}{A2}{A2}{A2}{A2}{A2}
-  \ecvlanguagefooter
-   
-  \ecvblueitem{Communication skills}{
-  \begin{ecvitemize}
-    \item team work: I have worked in various types of teams from research teams to national league hockey. For 2 years I coached my university hockey team
-    \item mediating skills: I work on the borders between young people, youth trainers, youth policy and researchers, for example running a 3 day workshop at CoE Symposium ``Youth Actor of Social Change'', and my continued work on youth training programmes 
-    \item intercultural skills: I am experienced at working in a European dimension such as being a rapporteur at the CoE Budapest ``youth against violence seminar'' and working with refugees.
-  \end{ecvitemize}
-  }
-  
-  \ecvblueitem{Organisational / managerial skills}{
-  \begin{ecvitemize}
-    \item whilst working for a Brussels based refugee NGO ``Convivial'' I organized a ``Civil Dialogue'' between refugees and civil servants at the European Commission 20th June 2002
-    \item during my PhD I organised a seminar series on research methods
-  \end{ecvitemize}
-  }
+\ecvtitle{19/10/2020 -- CURRENT}{Ph.D. Candidate, National Research University "Moscow Power Engineering Institute", Moscow, Russia}
+\ecvitem{}{Studying toward my Ph.D. in Electrical Engineering.}
 
-  \ecvdigitalcompetence{\ecvBasic}{\ecvIndependent}{\ecvProficient}{\ecvIndependent}{\ecvBasic}
-  
-  \ecvblueitem{Computer skills}{
-  \begin{ecvitemize}
-    \item competent with most Microsoft Office programmes
-    \item experience with HTML
-  \end{ecvitemize}
-  }
-  
-  \ecvblueitem{Other skills}{Creating pieces of Art and visiting Modern Art galleries. Enjoy all sports particularly hockey, football and running. Love to travel and experience different cultures.}
+\ecvsection{Education and Training}
 
-  \ecvblueitem{Driving licence}{A, B}
-  
-  \nocite{*}
-  \renewcommand{\section}[2]{\ecvsection{#2}}
-  \printbibtabular[title=Publications]
+\ecvtitle{08/2009 -- 06/2014}{Bachelor of Science (B.Sc.), Faculty of Engineering, Tanta University, Egypt}
+
+\ecvtitle{01/2016 -- 05/2019}{Master of Science (M.Sc.), Faculty of Engineering, Tanta University, Egypt}
+
+\ecvtitle{19/10/2021 -- CURRENT}{Philosophy of Science (Ph.D.), National Research University "Moscow Power Engineering Institute", Moscow, Russia}
+\ecvitem{}{Website: \url{https://mpei.ru/}}
+
+\ecvtitle{01/02/2019 -- 19/02/2019}{Certified Courses from Faculty \& Leadership Development Center, Tanta University, Egypt}
+\ecvitem{}{• Disaster and Crises Management, • Preparing a Competitive Research Project, • Effective Presentation Skills, • Use of Technology in Teaching, • Time and Conference Management, • Quality Standards in Teaching}
+
+\ecvtitle{14/08/2019 -- 24/10/2019}{Programming for Data Science for Enterprise Nanodegree Program, Udacity}
+\ecvitem{}{Learning SQL Database, Python, Git, and Github}
+
+\ecvtitle{2015 -- CURRENT}{Actively Participated as an Author or Audience in Different International Conferences}
+\ecvitem{}{• The 19th IEEE International Middle East Power Systems Conference (MEPCON'17), Cairo, Egypt, 27-29 December 2016, • The 20th IEEE International Middle East Power Systems Conference (MEPCON'18), Cairo, Egypt, 18-20 December 2016, • The 21st IEEE International Middle East Power Systems Conference (MEPCON'19), Cairo, Egypt, 17-19 December 2016}
+
+\ecvtitle{2011 -- CURRENT}{Other Certificates}
+\ecvitem{}{• ICDL - Ministry of Communications and Information Technology (MCIT), Egypt - January 2012, • Programmable Logic Controller - Jelecom - May 2013, • Learn Industrial Automation - Linkedin Learning - December 2019, • PLC Ladder Logic Essential Training - Linkedin Learning - December 2019, • Learning PLC Ladder Logic - Linkedin Learning - January 2019, • IoT Foundations: Standards and Ecosystems - Linkedin Learning - January 2019, • AutoCAD 2019 Essential Training - Linkedin Learning - January 2019, • STEP-BY-STEP GUIDE ON HOW TO PREPARE A SUCCESSFUL PAPER - workshop at Tanta University - September 2020}
+
+\ecvtitle{2018}{Voluntary Work and Workshops}
+% \ecvitem{}{Voluntary work: • Active P2P reviewer for scientific paper - The 21st IEEE International Middle East Power Systems Conference (MEPCON'19), • Professional conference organizer - The 21st IEEE International Middle East Power Systems Conference (MEPCON'19)}
+\ecvitem{}{Workshops: • Large Scale Renewable Energy - Tanta University - 22 March 2018, • Examination Systems and Student Assessment - Tanta University - 2 July 2019}
+
+\ecvsection{Language Skills}
+
+\ecvmothertongue{Arabic}
+\ecvlanguageheader
+\ecvlanguage{English}{C1}{C2}{B2}{B2}{C1}
+\ecvlanguage{Russian}{B1}{A2}{A2}{A2}{B1}
+\ecvlanguagefooter
+
+\ecvsection{Additional Information}
+
+% \ecvtitle{Publications}{}
+% Add your publications here using BibTeX or manually
+
+% \nocite{*}
+% \printbibtabular[title=Publications]
+
+\ecvsection{Networks and Memberships}
+
+\ecvitem{}{Memberships: Egyptian Engineering Syndicate (2014 -- Present)}
+
+\ecvsection{Organisational Skills}
+
+\ecvitem{}{Organisational skills:}
+\ecvitem{}{• Ability to ensure projects run to schedule and budget and work under pressure, • Ability to work with minimum supervision and with a team, • Creative problem solving and analysis with attention to detail}
+
+\ecvsection{Communication and Interpersonal Skills}
+
+\ecvitem{}{Communication and interpersonal skills:}
+\ecvitem{}{• Good communication skills gained through my experience as a demonstrator at the Faculty of Engineering, • Excellent contact skills with students gained through my experience as a demonstrator}
+
+\ecvsection{Job-Related Skills}
+
+\ecvitem{}{Job-related skills:}
+\ecvitem{}{• Developing models for various power system equipment, • Developing and teaching effective tutorials and lab sessions, • Collaboration with professors to set quizzes, assignments, and exams, • Collaboration with professors to prepare lecture notes and PowerPoint presentations, • Guiding and advising students in course/graduation projects}
+
+\ecvsection{B.Sc. Degree Thesis}
+
+\ecvitem{}{B.Sc. Degree Thesis:}
+\ecvitem{}{A. M. Elkholy et al, “The Impact of large wind energy penetration on the performance of electric power systems”, B.Sc. Graduation Thesis, Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta University, Tanta, Egypt, June 2014. Supervisor: Prof. Ahmed Refat Azmy. Project Grade: Excellent (99\%).}
+
+\ecvsection{M.Sc. Degree Thesis}
+
+\ecvitem{}{M.Sc. Degree Thesis:}
+\ecvitem{}{A. M. Elkholy et al, “Islanding Scenarios for High Reliable Operation of Distribution Networks”, M.Sc. Thesis, Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta University, Tanta, Egypt, April 2019. Supervisor: Prof. Ahmed Refat Azmy and Dr. Hossam Salah.}
+
+\ecvsection{Academic Referees}
+
+\ecvitem{}{Academic referees:}
+\ecvitem{}{1. Prof. Essam Eddin Mohamed Rashad}
+\ecvitem{}{Title: Head of Electrical Power and Machines Engineering Department}
+\ecvitem{}{Address: Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta University, Seperbay, Tanta 31521, Gharbeya Governorate, Egypt}
+\ecvitem{}{Tel.: +201222522507}
+\ecvitem{}{E-mail: emrashad@ieee.org}
+
+\ecvitem{}{2. Prof. Ahmed Refat Azmy}
+\ecvitem{}{Title: Professor at Electrical Power and Machines Engineering Department, Faculty of Engineering, Tanta University}
+\ecvitem{}{Address: Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta University, Seperbay Tanta 31521, Gharbeya Governorate, Egypt}
+\ecvitem{}{Tel.: +20-122-9715040}
+\ecvitem{}{E-mail: azmy@f-eng.tanta.edu.eg}
+
+\ecvitem{}{3. Prof. Diaa Eldin Abdelsattar Mansour}
+\ecvitem{}{Title: Associate Professor at Electrical Power and Machines Engineering Department, Faculty of Engineering, Tanta University}
+\ecvitem{}{Address: Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta University, Seperbay Tanta 31521, Gharbeya Governorate, Egypt}
+\ecvitem{}{Tel.: +20-122-9715040}
+\ecvitem{}{E-mail: mansour@f-eng.tanta.edu.eg}
+
+\ecvitem{}{4. Prof. Dmitry I. Panfilov}
+\ecvitem{}{Title: Professor at Industrial Electronics Department, Moscow Power Engineering Institute, Moscow, Russia}
+\ecvitem{}{Address: National Research University "Moscow Power Engineering Institute", Krasnokazarmennaya 13c1, Moscow, 111250 Russia}
+\ecvitem{}{E-mail: dmitry.panfilov@inbox.ru}
 
 \end{europasscv}
-  
+
 \end{document}
