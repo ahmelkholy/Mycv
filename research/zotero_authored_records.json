@@ -1,0 +1,415 @@
+[
+  {
+    "key": "9798EKQQ",
+    "version": 27755,
+    "itemType": "journalArticle",
+    "title": "Implementation of Shunt Regulation Devices for Balancing the Operating Modes of Four-Wire Networks with Asymmetric Loads",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "D. I.",
+        "lastName": "Panfilov"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "M. G.",
+        "lastName": "Astashev"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "A. V.",
+        "lastName": "Chasov"
+      },
+      {
+        "creatorType": "author",
+        "name": "Elkholi Ahmed M."
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Russian Electrical Engineering",
+    "publisher": "",
+    "place": "",
+    "date": "07/2026",
+    "volume": "97",
+    "issue": "7",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "589-595",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Russ. Electr. Engin.",
+    "DOI": "10.3103/S1068371226700847",
+    "citationKey": "Panfilov2026",
+    "url": "https://link.springer.com/10.3103/S1068371226700847",
+    "accessDate": "2026-09-15T13:47:58Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "1068-3712, 1934-8010",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "en",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "inPublications": true,
+    "tags": [],
+    "collections": [
+      "QP982J2X"
+    ],
+    "relations": {},
+    "dateAdded": "2026-09-15T13:47:58Z",
+    "dateModified": "2026-09-15T13:47:58Z"
+  },
+  {
+    "key": "ULMXIRDC",
+    "version": 27756,
+    "itemType": "journalArticle",
+    "title": "Modeling and Analysis of Distribution Networks with Asymmetric Loads under Dual-Loop Shunt Regulation of Their Operating Modes",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "M. G.",
+        "lastName": "Astashev"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "D. I.",
+        "lastName": "Panfilov"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "S. N.",
+        "lastName": "Demidov"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "V. V.",
+        "lastName": "Mikryukov"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "A. V.",
+        "lastName": "Chasov"
+      },
+      {
+        "creatorType": "author",
+        "name": "Elkholi Ahmed M."
+      }
+    ],
+    "abstractNote": "",
+    "publicationTitle": "Russian Electrical Engineering",
+    "publisher": "",
+    "place": "",
+    "date": "07/2026",
+    "volume": "97",
+    "issue": "7",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "581-588",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Russ. Electr. Engin.",
+    "DOI": "10.3103/S1068371226700835",
+    "citationKey": "Astashev2026",
+    "url": "https://link.springer.com/10.3103/S1068371226700835",
+    "accessDate": "2026-09-15T13:46:15Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "1068-3712, 1934-8010",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "en",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "inPublications": true,
+    "tags": [],
+    "collections": [
+      "QP982J2X"
+    ],
+    "relations": {},
+    "dateAdded": "2026-09-15T13:46:15Z",
+    "dateModified": "2026-09-15T13:46:15Z"
+  },
+  {
+    "key": "LNRVJRKF",
+    "version": 27757,
+    "itemType": "journalArticle",
+    "title": "Comparative Analysis of Metaheuristic Algorithms for Optimizing the Placement of Electric Vehicle Charging Infrastructure on Highways with Cartographic Visualization of the Obtained Solutions",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "A N",
+        "lastName": "Rozhkov"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "M Elkholy",
+        "lastName": "Akhmed"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "M G",
+        "lastName": "Astashev"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "I A",
+        "lastName": "Cherdintsev"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "A V",
+        "lastName": "Badalyan"
+      }
+    ],
+    "abstractNote": "This paper presents a comparative analysis of four metaheuristic algorithms for the placement of electric vehicle charging infrastructure. The analysis is based on the calculation of installation locations and the selection of charging station capacity on the M–11 Neva highway. A genetic algorithm, particle swarm method, differential evolution, and simulated annealing (selection) are considered. All methods solve the same problem on the same demand model, use the same computational resources, a single set of scenarios, and the same conditions. Five different operating scenarios were studied for these algorithms, differing in power grid operating conditions, highway traffic, etc., with each scenario analyzed under different initial conditions. The study combines the results of over 38,000 objective function calculations. It is shown that, according to a complex indicator that combines the quality of the objective function, project implementation cost, stability, and computation time, the particle swarm method proved to be the best, but it is also the most expensive and the slowest. The nonparametric Friedman’s test of integrated utility confirmed that the differences between the algorithms are statistically significant. A route mapping demonstrates that the identified advantage method achieves its benefits primarily by reducing infrastructure density and overall cost, rather than by maximizing the service level of charging stations.",
+    "publicationTitle": "",
+    "publisher": "",
+    "place": "",
+    "date": "2026",
+    "volume": "97",
+    "issue": "9",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "",
+    "DOI": "",
+    "citationKey": "Rozhkov2026",
+    "url": "",
+    "accessDate": "",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "en",
+    "libraryCatalog": "Zotero",
+    "callNumber": "",
+    "rights": "All rights reserved",
+    "extra": "",
+    "inPublications": true,
+    "tags": [],
+    "collections": [
+      "QP982J2X"
+    ],
+    "relations": {},
+    "dateAdded": "2026-09-15T13:37:34Z",
+    "dateModified": "2026-09-15T13:37:34Z"
+  },
+  {
+    "key": "CVGZM5M4",
+    "version": 24534,
+    "itemType": "conferencePaper",
+    "title": "Influence of Frequency and Phase on the Operation and Resonance of the DC-DC Converter",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ivan A.",
+        "lastName": "Cherdintsev"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Alexander N.",
+        "lastName": "Rozhkov"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Artush V.",
+        "lastName": "Badalyan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ahmed M.",
+        "lastName": "Elkholy"
+      }
+    ],
+    "abstractNote": "",
+    "proceedingsTitle": "2026 8th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE)",
+    "conferenceName": "2026 8th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE)",
+    "publisher": "IEEE",
+    "place": "Moscow, Russian Federation",
+    "date": "2026-4-1",
+    "eventPlace": "",
+    "volume": "",
+    "issue": "",
+    "numberOfVolumes": "",
+    "pages": "1-6",
+    "series": "",
+    "seriesNumber": "",
+    "DOI": "10.1109/REEPE69046.2026.11481435",
+    "ISBN": "979-8-3315-4759-2",
+    "citationKey": "Cherdintsev2026a",
+    "url": "https://ieeexplore.ieee.org/document/11481435/",
+    "accessDate": "2026-05-22T11:24:11Z",
+    "ISSN": "",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "https://doi.org/10.15223/policy-029",
+    "extra": "",
+    "inPublications": true,
+    "tags": [
+      {
+        "tag": "5.Thesis"
+      },
+      {
+        "tag": "Capacitors",
+        "type": 1
+      },
+      {
+        "tag": "Circuits",
+        "type": 1
+      },
+      {
+        "tag": "DC-DC converter",
+        "type": 1
+      },
+      {
+        "tag": "Equivalent circuits",
+        "type": 1
+      },
+      {
+        "tag": "Filtering",
+        "type": 1
+      },
+      {
+        "tag": "Frequency modulation",
+        "type": 1
+      },
+      {
+        "tag": "LLC resonant converter",
+        "type": 1
+      },
+      {
+        "tag": "Radio broadcasting",
+        "type": 1
+      },
+      {
+        "tag": "Switching circuits",
+        "type": 1
+      },
+      {
+        "tag": "System-on-chip",
+        "type": 1
+      },
+      {
+        "tag": "Voltage multipliers",
+        "type": 1
+      },
+      {
+        "tag": "Zero voltage switching",
+        "type": 1
+      },
+      {
+        "tag": "electric vehicle fast charging",
+        "type": 1
+      },
+      {
+        "tag": "hybrid phase-frequency control",
+        "type": 1
+      },
+      {
+        "tag": "zero-voltage switching (ZVS)",
+        "type": 1
+      }
+    ],
+    "collections": [],
+    "relations": {
+      "dc:replaces": "http://zotero.org/users/10420737/items/7N7RJP9T"
+    },
+    "dateAdded": "2026-05-22T11:23:27Z",
+    "dateModified": "2026-06-25T13:41:41Z"
+  },
+  {
+    "key": "CFPX55EN",
+    "version": 24533,
+    "itemType": "journalArticle",
+    "title": "Statistically robust genetic algorithm planning of EV fast-charging corridors under grid and storage constraints",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ahmed M.",
+        "lastName": "Elkholy"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Dmitry I.",
+        "lastName": "Panfilov"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Alexander N.",
+        "lastName": "Rozhkov"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Artush V.",
+        "lastName": "Badalyan"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ivan A.",
+        "lastName": "Cherdintsev"
+      }
+    ],
+    "abstractNote": "Growing electric vehicle (EV) adoption demands well-planned fast-charging networks along intercity corridors, yet most planning studies rely on single optimization runs whose results cannot be statistically reproduced. This paper presents a genetic algorithm (GA) framework that jointly optimizes charger placement, capacity, grid interaction, battery storage dispatch, and renewable integration for long-distance highway corridors, and—crucially—validates the outcomes through a 50-run statistical protocol. The framework is applied to the 669 km Moscow–St. Petersburg M-11 motorway under ﬁve stress-test scenarios spanning diﬀerent EV adoption rates, grid capacities, charger sizes, and storage conﬁgurations. Across scenarios the optimizer achieves mean service rates of 74–81% (74.09–80.98%) at mean infrastructure costs of $8.33–10.63M. One-way ANOVA conﬁrms that scenario choice signiﬁcantly aﬀects performance (𝐹 (4, 45) = 7.67, 𝑝 < 0.001, 𝜂2 = 0.41), while the mean coeﬃcient of variation of 4.11% demonstrates that the GA delivers reproducible solutions. Among the tested conﬁgurations, concentrating higher-capacity chargers at fewer sites (Capacity Push) yields the best mean service rate (81.0%) at moderate cost ($8.67M), whereas distribution-grid limits—not demand—prove to be the binding constraint on optimization quality. These ﬁndings provide a statistically grounded case-study basis for corridor planning while identifying the need for future power-ﬂow-coupled grid models and more advanced BESS control.",
+    "publicationTitle": "Electric Power Systems Research",
+    "publisher": "",
+    "place": "",
+    "date": "12/2026",
+    "volume": "261",
+    "issue": "",
+    "section": "",
+    "partNumber": "",
+    "partTitle": "",
+    "pages": "113505",
+    "series": "",
+    "seriesTitle": "",
+    "seriesText": "",
+    "journalAbbreviation": "Electric Power Systems Research",
+    "DOI": "10.1016/j.epsr.2026.113505",
+    "citationKey": "Elkholy2026a",
+    "url": "https://linkinghub.elsevier.com/retrieve/pii/S0378779626007984",
+    "accessDate": "2026-06-24T15:46:37Z",
+    "PMID": "",
+    "PMCID": "",
+    "ISSN": "03787796",
+    "archive": "",
+    "archiveLocation": "",
+    "shortTitle": "",
+    "language": "en",
+    "libraryCatalog": "DOI.org (Crossref)",
+    "callNumber": "",
+    "rights": "",
+    "extra": "",
+    "inPublications": true,
+    "tags": [
+      {
+        "tag": "5.Thesis"
+      }
+    ],
+    "collections": [
+      "7U3R3DKF"
+    ],
+    "relations": {},
+    "dateAdded": "2026-06-24T15:46:37Z",
+    "dateModified": "2026-06-25T13:41:31Z"
+  }
+]

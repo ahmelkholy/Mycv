@@ -1,0 +1,2358 @@
+{
+  "last-modified-date": {
+    "value": 1782310029471
+  },
+  "group": [
+    {
+      "last-modified-date": {
+        "value": 1782310029471
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.epsr.2026.113505",
+            "external-id-normalized": {
+              "value": "10.1016/j.epsr.2026.113505",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.epsr.2026.113505"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 218649126,
+          "created-date": {
+            "value": 1782310029471
+          },
+          "last-modified-date": {
+            "value": 1782310029471
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Statistically robust genetic algorithm planning of EV fast-charging corridors under grid and storage constraints"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.epsr.2026.113505",
+                "external-id-normalized": {
+                  "value": "10.1016/j.epsr.2026.113505",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/j.epsr.2026.113505"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1016/j.epsr.2026.113505"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "12"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Electric Power Systems Research"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/218649126",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1769101405736
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.epsr.2025.112045",
+            "external-id-normalized": {
+              "value": "10.1016/j.epsr.2025.112045",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.epsr.2025.112045"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 190120759,
+          "created-date": {
+            "value": 1755632606681
+          },
+          "last-modified-date": {
+            "value": 1769101405736
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Adaptive genetic algorithms enhance EV charging infrastructure resilience through multi-constraint optimization of grid resources and traffic dynamics"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.epsr.2025.112045",
+                "external-id-normalized": {
+                  "value": "10.1016/j.epsr.2025.112045",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/j.epsr.2025.112045"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1016/j.epsr.2025.112045"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "01"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Electric Power Systems Research"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/190120759",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1769101405736
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/TIA.2025.3585858",
+            "external-id-normalized": {
+              "value": "10.1109/tia.2025.3585858",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1109/TIA.2025.3585858"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 203180495,
+          "created-date": {
+            "value": 1769032536641
+          },
+          "last-modified-date": {
+            "value": 1769101405736
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Arc Suppression Devices for Mitigating Single Line-to-Ground Faults and Enhancing Power System Resilience"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/TIA.2025.3585858",
+                "external-id-normalized": {
+                  "value": "10.1109/tia.2025.3585858",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1109/TIA.2025.3585858"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1109/TIA.2025.3585858"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "01"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "IEEE Transactions on Industry Applications"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/203180495",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1763381466016
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.prime.2025.101135",
+            "external-id-normalized": {
+              "value": "10.1016/j.prime.2025.101135",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.prime.2025.101135"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 197119727,
+          "created-date": {
+            "value": 1763353724831
+          },
+          "last-modified-date": {
+            "value": 1763381466016
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Statistical approach to non-invasive modeling of zigzag transformers using variable impedance"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.prime.2025.101135",
+                "external-id-normalized": {
+                  "value": "10.1016/j.prime.2025.101135",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/j.prime.2025.101135"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1016/j.prime.2025.101135"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": {
+              "value": "12"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "e-Prime - Advances in Electrical Engineering, Electronics and Energy"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/197119727",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1769101405736
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.epsr.2024.111187",
+            "external-id-normalized": {
+              "value": "10.1016/j.epsr.2024.111187",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.epsr.2024.111187"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 171022613,
+          "created-date": {
+            "value": 1730812337601
+          },
+          "last-modified-date": {
+            "value": 1769101405736
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Performance evaluation of a low-voltage SVC utilizing IoT streamed data for distribution systems"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.epsr.2024.111187",
+                "external-id-normalized": {
+                  "value": "10.1016/j.epsr.2024.111187",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/j.epsr.2024.111187"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1016/j.epsr.2024.111187"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": {
+              "value": "02"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Electric Power Systems Research"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/171022613",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1712685809253
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/REEPE60449.2024.10479818",
+            "external-id-normalized": {
+              "value": "10.1109/reepe60449.2024.10479818",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1109/REEPE60449.2024.10479818"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 157303799,
+          "created-date": {
+            "value": 1712685809253
+          },
+          "last-modified-date": {
+            "value": 1712685809253
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Assessment of Various Technologies Influence to Reduce the Impact of Single-Phase Earth Faults in Distribution Systems with an Isolated Neutral"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/REEPE60449.2024.10479818",
+                "external-id-normalized": {
+                  "value": "10.1109/reepe60449.2024.10479818",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1109/REEPE60449.2024.10479818"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1109/REEPE60449.2024.10479818"
+          },
+          "type": "conference-paper",
+          "publication-date": {
+            "year": {
+              "value": "2024"
+            },
+            "month": {
+              "value": "02"
+            },
+            "day": {
+              "value": "29"
+            }
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/157303799",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1712685809618
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/REEPE60449.2024.10479781",
+            "external-id-normalized": {
+              "value": "10.1109/reepe60449.2024.10479781",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1109/REEPE60449.2024.10479781"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 157303802,
+          "created-date": {
+            "value": 1712685809618
+          },
+          "last-modified-date": {
+            "value": 1712685809618
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Enhancing Power System Resilience: An Analysis of Novel Arc Suppression Device Technology in Mitigating Single Line to Ground Faults"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/REEPE60449.2024.10479781",
+                "external-id-normalized": {
+                  "value": "10.1109/reepe60449.2024.10479781",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1109/REEPE60449.2024.10479781"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1109/REEPE60449.2024.10479781"
+          },
+          "type": "conference-paper",
+          "publication-date": {
+            "year": {
+              "value": "2024"
+            },
+            "month": {
+              "value": "02"
+            },
+            "day": {
+              "value": "29"
+            }
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/157303802",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1712318670480
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/mepcon58725.2023.10462330",
+            "external-id-normalized": {
+              "value": "10.1109/mepcon58725.2023.10462330",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "http://dx.doi.org/10.1109/mepcon58725.2023.10462330"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 157037378,
+          "created-date": {
+            "value": 1712318670480
+          },
+          "last-modified-date": {
+            "value": 1712318670480
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-3054-1567",
+              "path": "0000-0002-3054-1567",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref Metadata Search"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Design and Implementation of an Arc Suppression Device for Single Line to Ground Faults in Power Systems"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/mepcon58725.2023.10462330",
+                "external-id-normalized": {
+                  "value": "10.1109/mepcon58725.2023.10462330",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "http://dx.doi.org/10.1109/mepcon58725.2023.10462330"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "conference-paper",
+          "publication-date": {
+            "year": {
+              "value": "2023"
+            },
+            "month": {
+              "value": "12"
+            },
+            "day": {
+              "value": "19"
+            }
+          },
+          "journal-title": {
+            "value": "2023 24th International Middle East Power System Conference (MEPCON)"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/157037378",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1692698641145
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.3103/s1068371223060044",
+            "external-id-normalized": {
+              "value": "10.3103/s1068371223060044",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 140951870,
+          "created-date": {
+            "value": 1692698641145
+          },
+          "last-modified-date": {
+            "value": 1692698641145
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-3054-1567",
+              "path": "0000-0002-3054-1567",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref Metadata Search"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "The Influence of Transmission-Line Parameters and Its Load on Losses and Power Quality at the Load-Connection Point"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.3103/s1068371223060044",
+                "external-id-normalized": {
+                  "value": "10.3103/s1068371223060044",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "1068-3712",
+                "external-id-normalized": {
+                  "value": "1068-3712",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": null,
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2023"
+            },
+            "month": {
+              "value": "08"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Russian Electrical Engineering"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/140951870",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1693470699260
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/edm58354.2023.10225208",
+            "external-id-normalized": {
+              "value": "10.1109/edm58354.2023.10225208",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 141479808,
+          "created-date": {
+            "value": 1693470699260
+          },
+          "last-modified-date": {
+            "value": 1693470699260
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-3054-1567",
+              "path": "0000-0002-3054-1567",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref Metadata Search"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Evaluation of Zero and Negative Sequence Currents Influence of Asymmetric Load on the Power Losses and Quality in Distribution Networks"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/edm58354.2023.10225208",
+                "external-id-normalized": {
+                  "value": "10.1109/edm58354.2023.10225208",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "other",
+          "publication-date": {
+            "year": {
+              "value": "2023"
+            },
+            "month": {
+              "value": "06"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "2023 IEEE 24th International Conference of Young Professionals in Electron Devices and Materials (EDM)"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/141479808",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1693470728128
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/edm58354.2023.10225221",
+            "external-id-normalized": {
+              "value": "10.1109/edm58354.2023.10225221",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 141479843,
+          "created-date": {
+            "value": 1693470728128
+          },
+          "last-modified-date": {
+            "value": 1693470728128
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-3054-1567",
+              "path": "0000-0002-3054-1567",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref Metadata Search"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Evaluation of the Influence of AC Voltage Regulators, SVC and Unified Power Controllers on Power Losses and Quality in Unsymmetrical Distribution Systems"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/edm58354.2023.10225221",
+                "external-id-normalized": {
+                  "value": "10.1109/edm58354.2023.10225221",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "other",
+          "publication-date": {
+            "year": {
+              "value": "2023"
+            },
+            "month": {
+              "value": "06"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "2023 IEEE 24th International Conference of Young Professionals in Electron Devices and Materials (EDM)"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/141479843",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1693470714395
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/edm58354.2023.10225130",
+            "external-id-normalized": {
+              "value": "10.1109/edm58354.2023.10225130",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 141479834,
+          "created-date": {
+            "value": 1693470714395
+          },
+          "last-modified-date": {
+            "value": 1693470714395
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-3054-1567",
+              "path": "0000-0002-3054-1567",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref Metadata Search"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Identifying the Rating of the Unified Power Controller According to Unbalanced Distribution System Requirements"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/edm58354.2023.10225130",
+                "external-id-normalized": {
+                  "value": "10.1109/edm58354.2023.10225130",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "other",
+          "publication-date": {
+            "year": {
+              "value": "2023"
+            },
+            "month": {
+              "value": "06"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "2023 IEEE 24th International Conference of Young Professionals in Electron Devices and Materials (EDM)"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/141479834",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1711201017243
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.5281/zenodo.7763421",
+            "external-id-normalized": {
+              "value": "10.5281/zenodo.7763421",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.5281/zenodo.7763420",
+            "external-id-normalized": {
+              "value": "10.5281/zenodo.7763420",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 156097404,
+          "created-date": {
+            "value": 1711201017243
+          },
+          "last-modified-date": {
+            "value": 1711201017243
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/APP-IN0O56SBVVTB7NN4",
+              "path": "APP-IN0O56SBVVTB7NN4",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "OpenAIRE"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "engahmelkholy/IEEE13-optimization: the final version"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.5281/zenodo.7763421",
+                "external-id-normalized": {
+                  "value": "10.5281/zenodo.7763421",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.5281/zenodo.7763420",
+                "external-id-normalized": {
+                  "value": "10.5281/zenodo.7763420",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "software",
+          "publication-date": {
+            "year": {
+              "value": "2023"
+            },
+            "month": {
+              "value": "03"
+            },
+            "day": {
+              "value": "23"
+            }
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/156097404",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1654203224687
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.3390/electronics11050702",
+            "external-id-normalized": {
+              "value": "10.3390/electronics11050702",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.3390/electronics11050702"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 108780821,
+          "created-date": {
+            "value": 1645714292488
+          },
+          "last-modified-date": {
+            "value": 1654201883689
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Grid Synchronization Enhancement of Distributed Generators Using an Adaptive Phase-Locked Loop Tuning System"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.3390/electronics11050702",
+                "external-id-normalized": {
+                  "value": "10.3390/electronics11050702",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.3390/electronics11050702"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.3390/electronics11050702"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2022"
+            },
+            "month": {
+              "value": "02"
+            },
+            "day": {
+              "value": "24"
+            }
+          },
+          "journal-title": {
+            "value": "Electronics"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/108780821",
+          "display-index": "0"
+        },
+        {
+          "put-code": 108997355,
+          "created-date": {
+            "value": 1646096831539
+          },
+          "last-modified-date": {
+            "value": 1654203224687
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/APP-WRQOUAK78G5F7GMD",
+              "path": "APP-WRQOUAK78G5F7GMD",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Multidisciplinary Digital Publishing Institute"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Grid Synchronization Enhancement of Distributed Generators Using an Adaptive Phase-Locked Loop Tuning System"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.3390/electronics11050702",
+                "external-id-normalized": {
+                  "value": "10.3390/electronics11050702",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.3390/electronics11050702"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.mdpi.com/2079-9292/11/5/702"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2022"
+            },
+            "month": {
+              "value": "02"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Electronics"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/108997355",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1654057228027
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1080/15325008.2020.1856227",
+            "external-id-normalized": {
+              "value": "10.1080/15325008.2020.1856227",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1080/15325008.2020.1856227"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-85099398782",
+            "external-id-normalized": {
+              "value": "2-s2.0-85099398782",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 86765824,
+          "created-date": {
+            "value": 1610561982627
+          },
+          "last-modified-date": {
+            "value": 1654004668658
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "General Framework for Intentional Islanding to Enhance Distribution System Performance"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1080/15325008.2020.1856227",
+                "external-id-normalized": {
+                  "value": "10.1080/15325008.2020.1856227",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1080/15325008.2020.1856227"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1080/15325008.2020.1856227"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2020"
+            },
+            "month": {
+              "value": "09"
+            },
+            "day": {
+              "value": "13"
+            }
+          },
+          "journal-title": {
+            "value": "Electric Power Components and Systems"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/86765824",
+          "display-index": "1"
+        },
+        {
+          "put-code": 86765270,
+          "created-date": {
+            "value": 1610561113661
+          },
+          "last-modified-date": {
+            "value": 1654004664996
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-3054-1567",
+              "path": "0000-0002-3054-1567",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref Metadata Search"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "General Framework for Intentional Islanding to Enhance Distribution System Performance"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1080/15325008.2020.1856227",
+                "external-id-normalized": {
+                  "value": "10.1080/15325008.2020.1856227",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "1532-5008",
+                "external-id-normalized": {
+                  "value": "1532-5008",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": null,
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2021"
+            },
+            "month": {
+              "value": "01"
+            },
+            "day": {
+              "value": "10"
+            }
+          },
+          "journal-title": {
+            "value": "Electric Power Components and Systems"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/86765270",
+          "display-index": "0"
+        },
+        {
+          "put-code": 92359500,
+          "created-date": {
+            "value": 1618697154758
+          },
+          "last-modified-date": {
+            "value": 1654057228027
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "General Framework for Intentional Islanding to Enhance Distribution System Performance"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1080/15325008.2020.1856227",
+                "external-id-normalized": {
+                  "value": "10.1080/15325008.2020.1856227",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-85099398782",
+                "external-id-normalized": {
+                  "value": "2-s2.0-85099398782",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "15325016 15325008",
+                "external-id-normalized": {
+                  "value": "1532-5016",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85099398782&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2020"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Electric Power Components and Systems"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/92359500",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1711688689644
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.5281/zenodo.5816967",
+            "external-id-normalized": {
+              "value": "10.5281/zenodo.5816967",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.5281/ZENODO.5816968",
+            "external-id-normalized": {
+              "value": "10.5281/zenodo.5816968",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.5281/ZENODO.5816968"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 139558622,
+          "created-date": {
+            "value": 1690738394231
+          },
+          "last-modified-date": {
+            "value": 1690738394231
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Ahmed M. Elkholy"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "ISLANDING SCENARIOS FOR HIGH RELIABLE OPERATION OF DISTRIBUTION NETWORKS"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.5281/ZENODO.5816968",
+                "external-id-normalized": {
+                  "value": "10.5281/zenodo.5816968",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.5281/ZENODO.5816968"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://zenodo.org/record/5816968"
+          },
+          "type": "dissertation-thesis",
+          "publication-date": {
+            "year": {
+              "value": "2020"
+            },
+            "month": {
+              "value": "05"
+            },
+            "day": {
+              "value": "01"
+            }
+          },
+          "journal-title": {
+            "value": "Zenodo"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/139558622",
+          "display-index": "1"
+        },
+        {
+          "put-code": 156524618,
+          "created-date": {
+            "value": 1711688689644
+          },
+          "last-modified-date": {
+            "value": 1711688689644
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/APP-IN0O56SBVVTB7NN4",
+              "path": "APP-IN0O56SBVVTB7NN4",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "OpenAIRE"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "ISLANDING SCENARIOS FOR HIGH RELIABLE OPERATION OF DISTRIBUTION NETWORKS"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.5281/zenodo.5816968",
+                "external-id-normalized": {
+                  "value": "10.5281/zenodo.5816968",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.5281/zenodo.5816967",
+                "external-id-normalized": {
+                  "value": "10.5281/zenodo.5816967",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "other",
+          "publication-date": {
+            "year": {
+              "value": "2020"
+            },
+            "month": {
+              "value": "05"
+            },
+            "day": {
+              "value": "01"
+            }
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/156524618",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1654057228021
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/mepcon.2018.8635139",
+            "external-id-normalized": {
+              "value": "10.1109/mepcon.2018.8635139",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-85062856406",
+            "external-id-normalized": {
+              "value": "2-s2.0-85062856406",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 55904712,
+          "created-date": {
+            "value": 1554040003836
+          },
+          "last-modified-date": {
+            "value": 1653696275005
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-3054-1567",
+              "path": "0000-0002-3054-1567",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref Metadata Search"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "An Advanced Load Shedding Algorithm to Enhance Intentional-Islanding Dynamics"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/mepcon.2018.8635139",
+                "external-id-normalized": {
+                  "value": "10.1109/mepcon.2018.8635139",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "other",
+          "publication-date": {
+            "year": {
+              "value": "2018"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "2018 Twentieth International Middle East Power Systems Conference (MEPCON)"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/55904712",
+          "display-index": "0"
+        },
+        {
+          "put-code": 92359499,
+          "created-date": {
+            "value": 1618697154568
+          },
+          "last-modified-date": {
+            "value": 1654057228021
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "An Advanced Load Shedding Algorithm to Enhance Intentional-Islanding Dynamics"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/MEPCON.2018.8635139",
+                "external-id-normalized": {
+                  "value": "10.1109/mepcon.2018.8635139",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-85062856406",
+                "external-id-normalized": {
+                  "value": "2-s2.0-85062856406",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85062856406&partnerID=MN8TOARS"
+          },
+          "type": "conference-paper",
+          "publication-date": {
+            "year": {
+              "value": "2019"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "2018 20th International Middle East Power Systems Conference, MEPCON 2018 - Proceedings"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/92359499",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1654057228014
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/mepcon.2017.8301282",
+            "external-id-normalized": {
+              "value": "10.1109/mepcon.2017.8301282",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-85047395867",
+            "external-id-normalized": {
+              "value": "2-s2.0-85047395867",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 48480718,
+          "created-date": {
+            "value": 1537528854521
+          },
+          "last-modified-date": {
+            "value": 1653637145846
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-3054-1567",
+              "path": "0000-0002-3054-1567",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref Metadata Search"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "A proposed load shedding mechanism for enhancing intentional-islanding dynamics of distribution systems"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/mepcon.2017.8301282",
+                "external-id-normalized": {
+                  "value": "10.1109/mepcon.2017.8301282",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "isbn",
+                "external-id-value": "9781538609903",
+                "external-id-normalized": {
+                  "value": "9781538609903",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": null,
+          "type": "conference-paper",
+          "publication-date": {
+            "year": {
+              "value": "2017"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "2017 Nineteenth International Middle East Power Systems Conference (MEPCON)"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/48480718",
+          "display-index": "0"
+        },
+        {
+          "put-code": 92359498,
+          "created-date": {
+            "value": 1618697154380
+          },
+          "last-modified-date": {
+            "value": 1654057228014
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "A proposed load shedding mechanism for enhancing intentional-islanding dynamics of distribution systems"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/MEPCON.2017.8301282",
+                "external-id-normalized": {
+                  "value": "10.1109/mepcon.2017.8301282",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-85047395867",
+                "external-id-normalized": {
+                  "value": "2-s2.0-85047395867",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85047395867&partnerID=MN8TOARS"
+          },
+          "type": "conference-paper",
+          "publication-date": {
+            "year": {
+              "value": "2018"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "2017 19th International Middle-East Power Systems Conference, MEPCON 2017 - Proceedings"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/92359498",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1711688579297
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.5281/zenodo.10893057",
+            "external-id-normalized": {
+              "value": "10.5281/zenodo.10893057",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 156524582,
+          "created-date": {
+            "value": 1711688579297
+          },
+          "last-modified-date": {
+            "value": 1711688579297
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/APP-IN0O56SBVVTB7NN4",
+              "path": "APP-IN0O56SBVVTB7NN4",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "OpenAIRE"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "50 Questions in Philosophy"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.5281/zenodo.10893057",
+                "external-id-normalized": {
+                  "value": "10.5281/zenodo.10893057",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "book",
+          "publication-date": null,
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/156524582",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1711688619850
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.5281/zenodo.10892998",
+            "external-id-normalized": {
+              "value": "10.5281/zenodo.10892998",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 156524592,
+          "created-date": {
+            "value": 1711688619850
+          },
+          "last-modified-date": {
+            "value": 1711688619850
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/APP-IN0O56SBVVTB7NN4",
+              "path": "APP-IN0O56SBVVTB7NN4",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "OpenAIRE"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-1834-1175",
+              "path": "0000-0002-1834-1175",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Ahmed M. Elkholy"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "\u041d\u0410\u0423\u041a\u0410 \u0412 \u0426\u0418\u0412\u0418\u041b\u0418\u0417\u0410\u0426\u0418\u0418 \u0415\u0413\u0418\u041f\u0422\u0410 (\u041d\u0410 \u041e\u0421\u041d\u041e\u0412\u0415 \u041a\u041e\u041d\u0426\u0415\u041f\u0426\u0418\u0418 \u0413. \u0425\u0410\u041c\u0414\u0410\u041d\u0410)"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.5281/zenodo.10892998",
+                "external-id-normalized": {
+                  "value": "10.5281/zenodo.10892998",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "dissertation-thesis",
+          "publication-date": null,
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0000-0002-1834-1175/work/156524592",
+          "display-index": "0"
+        }
+      ]
+    }
+  ],
+  "path": "/0000-0002-1834-1175/works"
+}

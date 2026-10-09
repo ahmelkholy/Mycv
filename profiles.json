@@ -1,0 +1,32 @@
+{
+  "name": "Ahmed M. Elkholy",
+  "last_reviewed": "2026-10-09",
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/ahmelkholy/",
+    "google_scholar": "https://scholar.google.com/citations?user=KbZs8_AAAAAJ&hl=en",
+    "researchgate": "https://www.researchgate.net/profile/Ahmed-Elkholy-7",
+    "zotero": "https://www.zotero.org/ahmelkholy",
+    "github": "https://github.com/ahmelkholy",
+    "tanta_university": "http://tdb2.tanta.edu.eg/staff/ahmelkholy",
+    "orcid": "https://orcid.org/0000-0002-1834-1175",
+    "website": "https://ahmelkholy.github.io/"
+  },
+  "public_metadata": {
+    "orcid_works": "https://pub.orcid.org/v3.0/0000-0002-1834-1175/works",
+    "orcid_employments": "https://pub.orcid.org/v3.0/0000-0002-1834-1175/employments",
+    "github_repositories": "https://api.github.com/users/ahmelkholy/repos?per_page=100&sort=updated",
+    "zotero_user_id": 10420737,
+    "zotero_publications": "https://api.zotero.org/users/10420737/publications/items?limit=100",
+    "zotero_library": "https://api.zotero.org/users/10420737/items/top?limit=100",
+    "crossref_work": "https://api.crossref.org/works/{doi}"
+  },
+  "user_confirmed": {
+    "phd_status": "in progress",
+    "phd_expected_completion": "2026-12",
+    "mit_affiliation": false
+  },
+  "unresolved": [
+    "PhD start year differs between profiles; omitted from the CV pending confirmation.",
+    "Current Russian proficiency has not been confirmed; conservative description retained."
+  ]
+}

@@ -1,0 +1,2084 @@
+{
+  "journals": [
+    {
+      "query": "Statistically robust genetic algorithm planning of EV fast-charging corridors under grid and storage constraints",
+      "title": [
+        "Statistically robust genetic algorithm planning of EV fast-charging corridors under grid and storage constraints"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1834-1175",
+          "authenticated-orcid": false,
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1319-7474",
+          "authenticated-orcid": false,
+          "given": "Dmitry I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexander N.",
+          "family": "Rozhkov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Artush V.",
+          "family": "Badalyan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ivan A.",
+          "family": "Cherdintsev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1016/j.epsr.2026.113505",
+      "venue": [
+        "Electric Power Systems Research"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      },
+      "online": null,
+      "print": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      },
+      "volume": "261",
+      "issue": null,
+      "page": "113505",
+      "article-number": "113505"
+    },
+    {
+      "title": [
+        "Implementation of Shunt Regulation Devices for Balancing the Operating Modes of Four-Wire Networks with Asymmetric Loads"
+      ],
+      "authors": [
+        {
+          "given": "D. I.",
+          "family": "Panfilov",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M. G.",
+          "family": "Astashev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A. V.",
+          "family": "Chasov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "family": "Elkholi Ahmed M.",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.3103/s1068371226700847",
+      "venue": [
+        "Russian Electrical Engineering"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "volume": "97",
+      "issue": "7",
+      "page": "589-595"
+    },
+    {
+      "title": [
+        "Modeling and Analysis of Distribution Networks with Asymmetric Loads under Dual-Loop Shunt Regulation of Their Operating Modes"
+      ],
+      "authors": [
+        {
+          "given": "M. G.",
+          "family": "Astashev",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D. I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S. N.",
+          "family": "Demidov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "V. V.",
+          "family": "Mikryukov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A. V.",
+          "family": "Chasov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "family": "Elkholi Ahmed M.",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.3103/s1068371226700835",
+      "venue": [
+        "Russian Electrical Engineering"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "volume": "97",
+      "issue": "7",
+      "page": "581-588"
+    },
+    {
+      "query": "Arc Suppression Devices for Mitigating Single Line-to-Ground Faults and Enhancing Power System Resilience",
+      "title": [
+        "Arc Suppression Devices for Mitigating Single Line-to-Ground Faults and Enhancing Power System Resilience"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1834-1175",
+          "authenticated-orcid": false,
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Electrical Power and Machines Department, Faculty of Engineering, Tanta University, Tanta, Egypt"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Dmitry I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Industrial Electronics Department, Moscow Power Engineering Institute, Moscow, Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Michael G.",
+          "family": "Astachev",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Industrial Electronics Department, Moscow Power Engineering Institute, Moscow, Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/tia.2025.3585858",
+      "venue": [
+        "IEEE Transactions on Industry Applications"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      },
+      "online": null,
+      "print": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      },
+      "volume": "62",
+      "issue": "1",
+      "page": "596-607",
+      "article-number": null
+    },
+    {
+      "query": "Adaptive genetic algorithms enhance EV charging infrastructure resilience through multi-constraint optimization of grid resources and traffic dynamics",
+      "title": [
+        "Adaptive genetic algorithms enhance EV charging infrastructure resilience through multi-constraint optimization of grid resources and traffic dynamics"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1834-1175",
+          "authenticated-orcid": false,
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexander N.",
+          "family": "Rozhkov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Artush V.",
+          "family": "Badalyan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ivan A.",
+          "family": "Cherdintsev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1016/j.epsr.2025.112045",
+      "venue": [
+        "Electric Power Systems Research"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      },
+      "online": null,
+      "print": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      },
+      "volume": "250",
+      "issue": null,
+      "page": "112045",
+      "article-number": "112045"
+    },
+    {
+      "title": [
+        "Statistical approach to non-invasive modeling of zigzag transformers using variable impedance"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1834-1175",
+          "authenticated-orcid": false,
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andrew V.",
+          "family": "Chasov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1319-7474",
+          "authenticated-orcid": false,
+          "given": "Dmitry I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1016/j.prime.2025.101135",
+      "venue": [
+        "e-Prime - Advances in Electrical Engineering, Electronics and Energy"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            12
+          ]
+        ]
+      },
+      "volume": "14",
+      "issue": null,
+      "page": "101135",
+      "article-number": "101135"
+    },
+    {
+      "query": "Performance evaluation of a low-voltage SVC utilizing IoT streamed data for distribution systems",
+      "title": [
+        "Performance evaluation of a low-voltage SVC utilizing IoT streamed data for distribution systems"
+      ],
+      "authors": [
+        {
+          "given": "Roman N.",
+          "family": "Krasnoperov",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dmitry I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael G.",
+          "family": "Astachev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1834-1175",
+          "authenticated-orcid": false,
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1016/j.epsr.2024.111187",
+      "venue": [
+        "Electric Power Systems Research"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            2
+          ]
+        ]
+      },
+      "online": null,
+      "print": {
+        "date-parts": [
+          [
+            2025,
+            2
+          ]
+        ]
+      },
+      "volume": "239",
+      "page": "111187",
+      "article-number": "111187"
+    },
+    {
+      "query": "Comparative analysis of FACT devices for optimal improvement of power quality in unbalanced distribution systems",
+      "title": [
+        "Comparative analysis of FACT devices for optimal improvement of power quality in unbalanced distribution systems"
+      ],
+      "authors": [
+        {
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dmitry I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ahmed E.",
+          "family": "ELGebaly",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1038/s41598-024-57331-4",
+      "venue": [
+        "Scientific Reports"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            21
+          ]
+        ]
+      },
+      "online": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            21
+          ]
+        ]
+      },
+      "print": null,
+      "volume": "15",
+      "page": null,
+      "article-number": "2672"
+    },
+    {
+      "query": "Analysis of the Influence of Symmetrical Devices on the Operating Modes of Distribution Networks",
+      "title": [
+        "Analysis of the Influence of Symmetrical Devices on the Operating Modes of Distribution Networks"
+      ],
+      "authors": [
+        {
+          "given": "A. M.",
+          "family": "Elkholi",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "D. I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "M. G.",
+          "family": "Astashev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "A. V.",
+          "family": "Chasov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "I. D.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "V. N.",
+          "family": "Ostrirov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.3103/s1068371224700470",
+      "venue": [
+        "Russian Electrical Engineering"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            6
+          ]
+        ]
+      },
+      "online": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            29
+          ]
+        ]
+      },
+      "print": {
+        "date-parts": [
+          [
+            2024,
+            6
+          ]
+        ]
+      },
+      "volume": "95",
+      "issue": "6",
+      "page": "425-440",
+      "article-number": null
+    },
+    {
+      "title": [
+        "The Influence of Transmission-Line Parameters and Its Load on Losses and Power Quality at the Load-Connection Point"
+      ],
+      "authors": [
+        {
+          "family": "Ahmed M. Elkholy",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "D. I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M. G.",
+          "family": "Astashev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.3103/s1068371223060044",
+      "venue": [
+        "Russian Electrical Engineering"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            6
+          ]
+        ]
+      },
+      "volume": "94",
+      "issue": "6",
+      "page": "403-411",
+      "article-number": null
+    },
+    {
+      "title": [
+        "Grid Synchronization Enhancement of Distributed Generators Using an Adaptive Phase-Locked Loop Tuning System"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1834-1175",
+          "authenticated-orcid": false,
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta University, Tanta 31527, Egypt"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2217-6923",
+          "authenticated-orcid": false,
+          "given": "Ibrahim B. M.",
+          "family": "Taha",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Electrical Engineering, College of Engineering, Taif University, P.O. Box 11099, Taif 21944, Saudi Arabia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9505-5386",
+          "authenticated-orcid": false,
+          "given": "Salah",
+          "family": "Kamel",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Electrical Engineering, Aswan University, Aswan 81542, Egypt"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7103-6666",
+          "authenticated-orcid": false,
+          "given": "Mohamed K.",
+          "family": "El-Nemr",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta University, Tanta 31527, Egypt"
+            },
+            {
+              "name": "Electromagnetic Energy Conversion Laboratory, Tanta University, Tanta 31527, Egypt"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.3390/electronics11050702",
+      "venue": [
+        "Electronics"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            2,
+            24
+          ]
+        ]
+      },
+      "volume": "11",
+      "issue": "5",
+      "page": "702",
+      "article-number": null
+    },
+    {
+      "query": "General Framework for Intentional Islanding to Enhance Distribution System Performance",
+      "title": [
+        "General Framework for Intentional Islanding to Enhance Distribution System Performance"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1834-1175",
+          "authenticated-orcid": false,
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Faculty of Engineering, Electrical Power and Machines Engineering Department, Tanta University, Tanta, Egypt"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Hossam A.",
+          "family": "Abd el-Ghany",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Engineering, Electrical Power and Machines Engineering Department, Tanta University, Tanta, Egypt"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ahmed M.",
+          "family": "Azmy",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Engineering, Electrical Power and Machines Engineering Department, Tanta University, Tanta, Egypt"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1080/15325008.2020.1856227",
+      "venue": [
+        "Electric Power Components and Systems"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            9,
+            13
+          ]
+        ]
+      },
+      "online": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            10
+          ]
+        ]
+      },
+      "print": {
+        "date-parts": [
+          [
+            2020,
+            9,
+            13
+          ]
+        ]
+      },
+      "volume": "48",
+      "issue": "14-15",
+      "page": "1488-1507",
+      "article-number": null
+    }
+  ],
+  "conferences": [
+    {
+      "query": "Influence of Frequency and Phase on the Operation and Resonance of the DC-DC Converter",
+      "title": [
+        "Influence of Frequency and Phase on the Operation and Resonance of the DC-DC Converter"
+      ],
+      "authors": [
+        {
+          "given": "Ivan A.",
+          "family": "Cherdintsev",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Alexander N.",
+          "family": "Rozhkov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Artush V.",
+          "family": "Badalyan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/reepe69046.2026.11481435",
+      "venue": [
+        "2026 8th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            1
+          ]
+        ]
+      },
+      "online": null,
+      "print": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            1
+          ]
+        ]
+      },
+      "volume": null,
+      "page": "1-6",
+      "article-number": null
+    },
+    {
+      "query": "Genetic Algorithm-Based Optimization of EV Charging Station Placement on Long-Distance Routes",
+      "title": [
+        "Genetic Algorithm-Based Optimization of EV Charging Station Placement on Long-Distance Routes"
+      ],
+      "authors": [
+        {
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Tanta University, Moscow Power Engineering Institute,Electrical Power and Machines Eng., Dep. Faculty of Engineering, Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rozhkov Alexander",
+          "family": "Nikolaevich",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Badalvan Artush",
+          "family": "Vasilievich",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Cherdintsev Ivan",
+          "family": "Aleksandrovich",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/reepe63962.2025.10970891",
+      "venue": [
+        "2025 7th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            8
+          ]
+        ]
+      },
+      "online": null,
+      "print": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            8
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "1-7",
+      "article-number": null
+    },
+    {
+      "query": "Comprehensive Study of the Impact of Unbalanced Loading on Power Losses and Voltage Quality in Distribution Systems",
+      "title": [
+        "Comprehensive Study of the Impact of Unbalanced Loading on Power Losses andVoltage Quality in Distribution Systems"
+      ],
+      "authors": [
+        {
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Tanta University,Electrical Power and Machines Department Faculty of Engineering,Tanta,Egypt"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Dmitry I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial Electronics Department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mikhail G.",
+          "family": "Astashev",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial Electronics Department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Andrew V.",
+          "family": "Chasov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial Electronics Department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/edm61683.2024.10615221",
+      "venue": [
+        "2024 IEEE 25th International Conference of Young Professionals in Electron Devices and Materials (EDM)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            28
+          ]
+        ]
+      },
+      "online": null,
+      "print": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            28
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "1340-1346",
+      "article-number": null
+    },
+    {
+      "query": "Enhancing Power System Resilience An Analysis of Novel Arc Suppression Device Technology",
+      "title": [
+        "Enhancing Power System Resilience: An Analysis of Novel Arc Suppression Device Technology in Mitigating Single Line to Ground Faults"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1834-1175",
+          "authenticated-orcid": false,
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Faculty of engineering-Tanta university,Electrical power and machines department,Tanta,Egypt"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Dmitry I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Michael G.",
+          "family": "Astachev",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/reepe60449.2024.10479781",
+      "venue": [
+        "2024 6th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            29
+          ]
+        ]
+      },
+      "online": null,
+      "print": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            29
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "1-7",
+      "article-number": null
+    },
+    {
+      "query": "Assessment of Various Technologies Influence to Reduce the Impact of Single-Phase Earth Faults",
+      "title": [
+        "Assessment of Various Technologies Influence to Reduce the Impact of Single-Phase Earth Faults in Distribution Systems with an Isolated Neutral"
+      ],
+      "authors": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1834-1175",
+          "authenticated-orcid": false,
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Faculty of engineering-Tanta university,Electrical power and machines department,Tanta,Egypt"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Dmitry I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Michael G.",
+          "family": "Astachev",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/reepe60449.2024.10479818",
+      "venue": [
+        "2024 6th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            29
+          ]
+        ]
+      },
+      "online": null,
+      "print": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            29
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "1-8",
+      "article-number": null
+    },
+    {
+      "query": "Design and Implementation of an Arc Suppression Device for Single Line to Ground Faults in Power Systems",
+      "title": [
+        "Design and Implementation of an Arc Suppression Device for Single Line to Ground Faults in Power Systems"
+      ],
+      "authors": [
+        {
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Tanta university,Faculty of engineering,Electrical power and machines department,Tanta,Egypt"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Dmitry I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mikhail G.",
+          "family": "Astashev",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/mepcon58725.2023.10462330",
+      "venue": [
+        "2023 24th International Middle East Power System Conference (MEPCON)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            12,
+            19
+          ]
+        ]
+      },
+      "online": null,
+      "print": {
+        "date-parts": [
+          [
+            2023,
+            12,
+            19
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "1-7",
+      "article-number": null
+    },
+    {
+      "title": [
+        "Evaluation of Zero and Negative Sequence Currents Influence of Asymmetric Load on the Power Losses and Quality in Distribution Networks"
+      ],
+      "authors": [
+        {
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Tanta university,Faculty of engineering,Electrical power and machines department,Tanta,Egypt"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dmitry I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ahmed E.",
+          "family": "El Gebaly",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Tanta university,Faculty of engineering,Electrical power and machines department,Tanta,Egypt"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/edm58354.2023.10225208",
+      "venue": [
+        "2023 IEEE 24th International Conference of Young Professionals in Electron Devices and Materials (EDM)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            6,
+            29
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "1110-1115",
+      "article-number": null
+    },
+    {
+      "title": [
+        "Identifying the Rating of the Unified Power Controller According to Unbalanced Distribution System Requirements"
+      ],
+      "authors": [
+        {
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Tanta university,Faculty of engineering,Electrical power and machines department,Tanta,Egypt"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Dmitry I.",
+          "family": "Panfilov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ahmed E.",
+          "family": "ELGebaly",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Tanta university,Faculty of engineering,Electrical power and machines department,Tanta,Egypt"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/edm58354.2023.10225130",
+      "venue": [
+        "2023 IEEE 24th International Conference of Young Professionals in Electron Devices and Materials (EDM)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            6,
+            29
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "960-965",
+      "article-number": null
+    },
+    {
+      "title": [
+        "Evaluation of the Influence of AC Voltage Regulators, SVC and Unified Power Controllers on Power Losses and Quality in Unsymmetrical Distribution Systems"
+      ],
+      "authors": [
+        {
+          "given": "Dmitry I.",
+          "family": "Panfilov",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Moscow Power Engineering Institute,Industrial electronics department,Moscow,Russia"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Tanta university,Faculty of engineering,Electrical power and machines department,Tanta,Egypt"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ahmed E.",
+          "family": "ELGebaly",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Tanta university,Faculty of engineering,Electrical power and machines department,Tanta,Egypt"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/edm58354.2023.10225221",
+      "venue": [
+        "2023 IEEE 24th International Conference of Young Professionals in Electron Devices and Materials (EDM)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            6,
+            29
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "950-956",
+      "article-number": null
+    },
+    {
+      "title": [
+        "Performance Enhancement of Wave Energy Converters Integrated with DC Grids Using Energy Storage Systems"
+      ],
+      "authors": [
+        {
+          "given": "Mohamed G.",
+          "family": "Hussien",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Diaa-Eldin A.",
+          "family": "Mansour",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mahmoud M.",
+          "family": "Akl",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mohamed",
+          "family": "Numair",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ismail A.",
+          "family": "Soliman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/mepcon50283.2021.9686294",
+      "venue": [
+        "2021 22nd International Middle East Power Systems Conference (MEPCON)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            12,
+            14
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "77-83",
+      "article-number": null
+    },
+    {
+      "title": [
+        "Hosting Capacity Enhancement Through IoT-based Active Power Curtailment of PV Generation"
+      ],
+      "authors": [
+        {
+          "given": "Ismail A.",
+          "family": "Soliman",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mohamed",
+          "family": "Numair",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mahmoud M.",
+          "family": "Akl",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Diaa-Eldin A.",
+          "family": "Mansour",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mohamed G.",
+          "family": "Hussien",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/mepcon50283.2021.9686240",
+      "venue": [
+        "2021 22nd International Middle East Power Systems Conference (MEPCON)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            12,
+            14
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "259-264",
+      "article-number": null
+    },
+    {
+      "title": [
+        "An Advanced Load Shedding Algorithm to Enhance Intentional-Islanding Dynamics"
+      ],
+      "authors": [
+        {
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Hossam A. Abd",
+          "family": "El-Ghany",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ahmed M.",
+          "family": "Azmy",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/mepcon.2018.8635139",
+      "venue": [
+        "2018 Twentieth International Middle East Power Systems Conference (MEPCON)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            12
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "797-802",
+      "article-number": null
+    },
+    {
+      "title": [
+        "A proposed load shedding mechanism for enhancing intentional-islanding dynamics of distribution systems"
+      ],
+      "authors": [
+        {
+          "given": "Ahmed M.",
+          "family": "Elkholy",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Hossam A. Abd",
+          "family": "El-Ghany",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ahmed M.",
+          "family": "Azmy",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "DOI": "10.1109/mepcon.2017.8301282",
+      "venue": [
+        "2017 Nineteenth International Middle East Power Systems Conference (MEPCON)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            12
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "870-875",
+      "article-number": null
+    }
+  ]
+}

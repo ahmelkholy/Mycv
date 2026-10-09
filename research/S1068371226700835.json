@@ -1,0 +1,341 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        29
+      ]
+    ],
+    "date-time": "2026-08-29T15:18:09Z",
+    "timestamp": 1788016689804,
+    "version": "build-2784847793"
+  },
+  "reference-count": 4,
+  "publisher": "Allerton Press",
+  "issue": "7",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2026-07-01T00:00:00Z",
+        "timestamp": 1782864000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2026-07-01T00:00:00Z",
+        "timestamp": 1782864000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Russ. Electr. Engin."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.3103/s1068371226700835",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        29
+      ]
+    ],
+    "date-time": "2026-08-29T15:06:56Z",
+    "timestamp": 1788016016000
+  },
+  "page": "581-588",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Modeling and Analysis of Distribution Networks with Asymmetric Loads under Dual-Loop Shunt Regulation of Their Operating Modes"
+  ],
+  "prefix": "10.3103",
+  "volume": "97",
+  "author": [
+    {
+      "given": "M. G.",
+      "family": "Astashev",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "D. I.",
+      "family": "Panfilov",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "S. N.",
+      "family": "Demidov",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "V. V.",
+      "family": "Mikryukov",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A. V.",
+      "family": "Chasov",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "family": "Elkholi Ahmed M.",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1627",
+  "published-online": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        29
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "2166_CR1",
+      "unstructured": "Asabin, A.A. and Verkhovskii, S.Ya., Controlling characteristics of AC thyristor controller with boosting transformer under alternate bi-zone control, Tr. Nizhegorod. Gos. Tekh. Univ. im. R.E. Alekseeva, 2013, no. 2 (99), pp. 189\u2013195."
+    },
+    {
+      "key": "2166_CR2",
+      "unstructured": "Astashev, M.G., Panfilov, D.I., and Chasov, A.V., Technologies for controlling operation modes of distribution networks with unsymmetry loads for decreasing losses and for improving indexes of electric energy quality, Elektroenerg. Peredacha, Raspred., 2023, no. 6 (81), pp. 40\u201348."
+    },
+    {
+      "key": "2166_CR3",
+      "unstructured": "Panfilov, D.I., Astashev, M.G., Zhuravlev, I.I., and Panfilov, I.D., RF Patent 2791058, March 2, 2023."
+    },
+    {
+      "key": "2166_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "374",
+      "DOI": "10.3103/S1068371222060049",
+      "volume": "93",
+      "author": "A.V. Chasov",
+      "year": "2022",
+      "unstructured": "Chasov, A.V., Panfilov, D.I., Astashev, M.G., Rashitov, P.A., and Mostovoi, D.V., Devices for balancing operation regimes of three-phase four-wire power-transmission lines, Russ. Electr. Eng., 2022, vol. 93, no.\u00a06, pp. 374\u2013381.",
+      "journal-title": "Russ. Electr. Eng."
+    }
+  ],
+  "container-title": [
+    "Russian Electrical Engineering"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.3103/S1068371226700835.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.3103/S1068371226700835",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.3103/S1068371226700835.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        29
+      ]
+    ],
+    "date-time": "2026-08-29T15:06:57Z",
+    "timestamp": 1788016017000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.3103/S1068371226700835"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7
+      ]
+    ]
+  },
+  "references-count": 4,
+  "journal-issue": {
+    "issue": "7",
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "2166"
+  ],
+  "URL": "https://doi.org/10.3103/s1068371226700835",
+  "relation": {},
+  "ISSN": [
+    "1068-3712",
+    "1934-8010"
+  ],
+  "issn-type": [
+    {
+      "value": "1068-3712",
+      "type": "print"
+    },
+    {
+      "value": "1934-8010",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        7
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2 April 2026",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "15 April 2026",
+      "order": 2,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "15 April 2026",
+      "order": 3,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "29 August 2026",
+      "order": 4,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors of this work declare that they have no conflicts of interest.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "CONFLICT OF INTEREST"
+      }
+    }
+  ]
+}

@@ -1,268 +1,109 @@
-Ahmed M. Elkholy
+# Ahmed M. Elkholy
+Electrical Power Engineer | Assistant Lecturer | PhD Student
 
+Electrical Power and Machines Engineering Department, Faculty of Engineering, Tanta University, Egypt
 
-Date of birth: 01/09/1992     Nationality: Egyptian     Phone number: (+20) 1062427898 (Mobile)     Phone number:
+ahmed_elkholy@f-eng.tanta.edu.eg (mailto:ahmed_elkholy@f-eng.tanta.edu.eg) | ahm_elkholy@outlook.com (mailto:ahm_elkholy@outlook.com) | +20 1062427898
 
-(+7) 9967167257 (Home)     Email address:  ahmed_elkholy@f-eng.tanta.edu.eg    Email address:
+Website (https://ahmelkholy.github.io/) | LinkedIn (https://www.linkedin.com/in/ahmelkholy/) | ResearchGate (https://www.researchgate.net/profile/Ahmed-Elkholy-7) | Google Scholar (https://scholar.google.com/citations?user=KbZs8_AAAAAJ&hl=en) | ORCID (https://orcid.org/0000-0002-1834-1175) | GitHub (https://github.com/ahmelkholy)
 
-ahm_elkholy@outlook.com    Website: https://ahmelkholy.github.io/    Website:
+## Profile
+Electrical power engineer and Assistant Lecturer at Tanta University, pursuing a PhD at Moscow Power Engineering Institute (MPEI), with expected completion in December 2026. Research focuses on distribution network modelling, power quality, FACTS devices, fault mitigation, and electric vehicle charging infrastructure. Experience includes university teaching, power system simulation, and optimization.
 
-http://tdb2.tanta.edu.eg/staﬀ/ahmed_elkholy    LinkedIn: https://www.linkedin.com/in/ahmelkholy/    RG:
+## Academic and Research Experience
+Researcher / R&D Engineer — Moscow Power Engineering Institute, Russia | October 2023–present
+- Conduct research in the Industrial Electronics Department on distribution systems, power electronic devices, and network performance.
+- Develop and evaluate models and optimization methods for power quality improvement, fault mitigation, and EV charging infrastructure.
 
-https://www.researchgate.net/proﬁle/Ahmed_Elkholy10    orcid: https://orcid.org/0000-0002-1834-1175
+Assistant Lecturer — Faculty of Engineering, Tanta University, Egypt | July 2019–present
+- Prepare teaching materials and deliver tutorials and laboratory sessions in electrical engineering.
+- Support assessment preparation and marking; guide students in course and graduation projects.
+- Conduct research in power system analysis, control, and renewable energy integration.
 
-Whatsapp Messenger: +79856377886
+Demonstrator — Faculty of Engineering, Tanta University, Egypt | March 2016–July 2019
+- Assist students with laboratory exercises, practical work, and equipment preparation.
+- Provide feedback on student performance and support assessment marking and laboratory safety.
 
-Address: Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta University, ,
-31521, Tanta, Gharbeya Governorate, Egypt (Egyption work)
+## Education
+PhD studies in Electrical Engineering — Moscow Power Engineering Institute, Russia | In progress; expected December 2026
 
-Address: ул. энергетическая, д. 6, 111116, Москва, Russia (Home)
+MSc in Electrical Power and Machines Engineering — Tanta University, Egypt | 2016–2019
 
+Thesis: Islanding Scenarios for High Reliable Operation of Distribution Networks. Supervisors: Prof. Ahmed Refat Azmy and Dr. Hossam Salah.
 
+BSc in Electrical Power and Machines Engineering — Tanta University, Egypt | 2009–2014
 
-WORK EXPERIENCE
+Graduation project: The Impact of Large Wind Energy Penetration on the Performance of Electric Power Systems. Supervisor: Prof. Ahmed Refat Azmy. Project grade: Excellent (99%).
 
-01/07/2019 – CURRENT Tanta, Egypt
-ASSISTANT LECTURER FACULTY OF ENGINEERING, TANTA UNIVERSITY
+## Technical Skills and Research Software
+- Power systems: distribution network modelling, unbalanced power flow, symmetrical components, power quality, FACTS devices, islanding, load shedding, and renewable energy integration.
+- Modelling and programming: MATLAB/Simulink, Python, SQL, Git/GitHub, and LaTeX; genetic algorithms and numerical optimization.
+- Research software: IEEE13-optimization (https://github.com/ahmelkholy/IEEE13-optimization), for unified power controller optimization in the IEEE 13-bus network; Zthevenin (https://github.com/ahmelkholy/Zthevenin), a MATLAB tool for calculating power system Thevenin impedance.
 
-To support the design, development, and production of learning and teaching material and deliver either across a range of modules or within a subject area. Ensure the eﬃcient delivery of teaching programs in accordance with the University’s strategy, policy, and procedures.
+## Training, Service, and Languages
+- Programming for Data Science for Enterprise Nanodegree, Udacity, 2019: Python, SQL, and Git.
+- Faculty and Leadership Development Centre, Tanta University, 2019: teaching technology, presentation skills, research project preparation, crisis management, and teaching quality.
+- PLC training, JELECOM, 2013; IoT Foundations: Standards and Ecosystems, LinkedIn Learning, 2020.
+- Reviewer and conference organization support, MEPCON 2019.
+- Egyptian Engineers Syndicate member since 2014.
+- Languages: Arabic (native), English (professional working proficiency), Russian (basic to intermediate).
 
-03/2016 – 07/2019 Tanta, Egypt
-DEMONSTRATOR FACULTY OF ENGINEERING, TANTA UNIVERSITY
 
-Objectives1. To assist/give guidance, where required, to students who are carrying out practical exercises, etc.2. To be aware of any health and safety implications of procedures, and take action to maintain a safe environment, raising any concerns with the course organizer/work supervisor.3. Provide feedback on student performance and any issues arising in the course of the demonstration, to the course organizer/ work supervisor.4. To assist in marking student tests set by the course organizer using deﬁned marking criteria were marking requires little or no interpretation.5. To ensure that equipment is functional and/or material for demonstrations, exercises, etc is prepared before the start of the session.
 
-19/10/2020 – CURRENT Moscow, Russia
-PH.D. NATIONAL RESEARCH UNIVERSITY "MOSCOW POWER ENGINEERING INSTITUTE" НИУ
-"МЭИ"
+## Journal Publications
 
-studing toward my PH.D. in electrical Engineering
+1. A. M. Elkholy, D. I. Panfilov, A. N. Rozhkov, A. V. Badalyan, I. A. Cherdintsev. Statistically robust genetic algorithm planning of EV fast-charging corridors under grid and storage constraints. Electric Power Systems Research, 2026, vol. 261, article 113505 (online publication; December issue). DOI (https://doi.org/10.1016/j.epsr.2026.113505)
 
+2. D. I. Panfilov, M. G. Astashev, A. V. Chasov, A. M. Elkholi. Implementation of Shunt Regulation Devices for Balancing the Operating Modes of Four-Wire Networks with Asymmetric Loads. Russian Electrical Engineering, 2026, vol. 97, no. 7, pp. 589–595. DOI (https://doi.org/10.3103/s1068371226700847)
 
-EDUCATION AND TRAINING
+3. M. G. Astashev, D. I. Panfilov, S. N. Demidov, V. V. Mikryukov, A. V. Chasov, A. M. Elkholi. Modeling and Analysis of Distribution Networks with Asymmetric Loads under Dual-Loop Shunt Regulation of Their Operating Modes. Russian Electrical Engineering, 2026, vol. 97, no. 7, pp. 581–588. DOI (https://doi.org/10.3103/s1068371226700835)
 
-08/2009 – 06/2014 Tanta, Egypt
-BACHELOR OF SCIENCE (B.SC.) Faculty of Engineering, Tanta University
+4. A. M. Elkholy, D. I. Panfilov, M. G. Astachev. Arc Suppression Devices for Mitigating Single Line-to-Ground Faults and Enhancing Power System Resilience. IEEE Transactions on Industry Applications, 2026, vol. 62, no. 1, pp. 596–607. DOI (https://doi.org/10.1109/tia.2025.3585858)
 
+5. A. M. Elkholy, A. N. Rozhkov, A. V. Badalyan, I. A. Cherdintsev. Adaptive genetic algorithms enhance EV charging infrastructure resilience through multi-constraint optimization of grid resources and traffic dynamics. Electric Power Systems Research, 2026, vol. 250, article 112045. DOI (https://doi.org/10.1016/j.epsr.2025.112045)
 
-01/2016 – 05/2019 Tanta, Egypt
-MASTER OF SCIENCE (M.SC.) Faculty of Engineering, Tanta University
+6. A. M. Elkholy, A. V. Chasov, D. I. Panfilov. Statistical approach to non-invasive modeling of zigzag transformers using variable impedance. e-Prime - Advances in Electrical Engineering, Electronics and Energy, 2025, vol. 14, article 101135. DOI (https://doi.org/10.1016/j.prime.2025.101135)
 
+7. R. N. Krasnoperov, D. I. Panfilov, M. G. Astachev, A. M. Elkholy. Performance evaluation of a low-voltage SVC utilizing IoT streamed data for distribution systems. Electric Power Systems Research, 2025, vol. 239, article 111187. DOI (https://doi.org/10.1016/j.epsr.2024.111187)
 
-19/10/2021 – CURRENT Moscow, Russia
-PHILOSOPHY OF SCIENCE (PH.D.) National Research University "Moscow Power Engineering
-Institute" НИУ "МЭИ"
+8. A. M. Elkholy, D. I. Panfilov, A. E. ELGebaly. Comparative analysis of FACT devices for optimal improvement of power quality in unbalanced distribution systems. Scientific Reports, 2025, vol. 15, article 2672. DOI (https://doi.org/10.1038/s41598-024-57331-4)
 
-AddressLefortovskiy Val St, 111116, Moscow, RussiaWebsite      https://mpei.ru/
-01/02/2019 – 19/02/2019 Tanta, Egypt
-CERTIFICATED COURSES FROM FACULTY & LEADERSHIP DEVELOPMENT CENTER, TANTA
-UNIVERSITY Tanta university & the International Center for Facility and Leadership Development
-(TICFLD)
+9. A. M. Elkholi, D. I. Panfilov, M. G. Astashev, A. V. Chasov, I. D. Panfilov, V. N. Ostrirov. Analysis of the Influence of Symmetrical Devices on the Operating Modes of Distribution Networks. Russian Electrical Engineering, 2024, vol. 95, no. 6, pp. 425–440. DOI (https://doi.org/10.3103/s1068371224700470)
 
-• Disaster and Crises Management from 2 to 4 February 2019
-• Preparing a Competitive Research Project from 5 to 7 February 2019
-• Eﬀective Presentation Skills from 9 to 11 February 2019
-• Use of Technology in Teaching from 12 to 14 February 2019
-• Time and conference Management from 16 to 18 February 2019
-• Quality Standards in Teaching from 9 to 11 April 2019
+10.  Ahmed M. Elkholy, D. I. Panfilov, M. G. Astashev. The Influence of Transmission-Line Parameters and Its Load on Losses and Power Quality at the Load-Connection Point. Russian Electrical Engineering, 2023, vol. 94, no. 6, pp. 403–411. DOI (https://doi.org/10.3103/s1068371223060044)
 
-14/08/2019 – 24/10/2019
-PROGRAMMING FOR DATA SCIENCE FOR ENTERPRISE NANODEGREE PROGRAM Udacity
+11. A. M. Elkholy, I. B. M. Taha, S. Kamel, M. K. El-Nemr. Grid Synchronization Enhancement of Distributed Generators Using an Adaptive Phase-Locked Loop Tuning System. Electronics, 2022, vol. 11, no. 5, pp. 702. DOI (https://doi.org/10.3390/electronics11050702)
 
-learning SQL Database, Python, Git, and Github
+12. A. M. Elkholy, H. A. Abd el-Ghany, A. M. Azmy. General Framework for Intentional Islanding to Enhance Distribution System Performance. Electric Power Components and Systems, 2020, vol. 48, no. 14-15, pp. 1488–1507. DOI (https://doi.org/10.1080/15325008.2020.1856227)
 
-2015 – CURRENT
-ACTIVELY PARTICIPATED AS AN AUTHOR OR AUDIENCE IN DIFFERENT INTERNATIONAL
-CONFERENCES
 
-• The 19th IEEE International Middle East Power Systems Conference (MEPCON'17), Cairo, Egypt,
-27-29 December 2016
-• The 20th IEEE International Middle East Power Systems Conference (MEPCON'18), Cairo, Egypt,
-18-20 December 2016
-• The 21st IEEE International Middle East Power Systems Conference (MEPCON'19), Cairo, Egypt,
-17-19 December 2016
 
-2011 – CURRENT
-OTHER CERTIFICATES
+## Conference Publications
 
-• ICDL - Ministry of Communications and Information Technology (MCIT), Egypt - January 2012
-• Programmable Logic Controller - Jelecom - May 2013
-• Learn Industrial Automation - Linkedin learning - December 2019
-• PLC Ladder Logic Essential Training - Linkedin learning - December 2019
-• Learning PLC Ladder Logic - Linkedin learning - January 2019
-• IoT Foundations: Standards and Ecosystems - Linkedin learning - January 2019
-• AutoCAD 2019 Essential Training - Linkedin learning - January 2019
-• STEP-BY-STEP GUIDE ON HOW TO PREPARE A SUCCESSFUL PAPER - workshop at Tanta University -
-september 2020
+REEPE: Radio Electronics, Electrical and Power Engineering. EDM: Electron Devices and Materials. MEPCON: Middle East Power Systems Conference.
 
-2018
-VOLUNTARY WORK AND WORKSHOPS
+13. I. A. Cherdintsev, A. N. Rozhkov, A. V. Badalyan, A. M. Elkholy. Influence of Frequency and Phase on the Operation and Resonance of the DC-DC Converter. IEEE REEPE, 2026, pp. 1–6. DOI (https://doi.org/10.1109/reepe69046.2026.11481435)
 
-Voluntary work
-• Active P2P reviewer for scientiﬁc paper - The 21st IEEE International Middle East Power Systems
-Conference (MEPCON'19)
-• Professional conference organizer - The 21st IEEE International Middle East Power Systems
-Conference (MEPCON'19)
+14. A. M. Elkholy, A. N. Rozhkov, A. V. Badalyan, I. A. Cherdintsev. Genetic Algorithm-Based Optimization of EV Charging Station Placement on Long-Distance Routes. IEEE REEPE, 2025, pp. 1–7. DOI (https://doi.org/10.1109/reepe63962.2025.10970891)
 
-Workshops
-• Large Scale-scale Renewable Energy - Tanta University - 22 March 2018
-• Examination systems and student assessment - Tanta University - 2 July 2019
+15. A. M. Elkholy, D. I. Panfilov, M. G. Astashev, A. V. Chasov. Comprehensive Study of the Impact of Unbalanced Loading on Power Losses and Voltage Quality in Distribution Systems. IEEE EDM, 2024, pp. 1340–1346. DOI (https://doi.org/10.1109/edm61683.2024.10615221)
 
-LANGUAGE SKILLS
+16. A. M. Elkholy, D. I. Panfilov, M. G. Astachev. Enhancing Power System Resilience: An Analysis of Novel Arc Suppression Device Technology in Mitigating Single Line to Ground Faults. IEEE REEPE, 2024, pp. 1–7. DOI (https://doi.org/10.1109/reepe60449.2024.10479781)
 
+17. A. M. Elkholy, D. I. Panfilov, M. G. Astachev. Assessment of Various Technologies Influence to Reduce the Impact of Single-Phase Earth Faults in Distribution Systems with an Isolated Neutral. IEEE REEPE, 2024, pp. 1–8. DOI (https://doi.org/10.1109/reepe60449.2024.10479818)
 
-Mother tongue(s):   ARABIC
-Other language(s):
+18. A. M. Elkholy, D. I. Panfilov, M. G. Astashev. Design and Implementation of an Arc Suppression Device for Single Line to Ground Faults in Power Systems. IEEE MEPCON, 2023, pp. 1–7. DOI (https://doi.org/10.1109/mepcon58725.2023.10462330)
 
-UNDERSTANDING                                     SPEAKING                             WRITING
+19. A. M. Elkholy, D. I. Panfilov, A. E. El Gebaly. Evaluation of Zero and Negative Sequence Currents Influence of Asymmetric Load on the Power Losses and Quality in Distribution Networks. IEEE EDM, 2023, pp. 1110–1115. DOI (https://doi.org/10.1109/edm58354.2023.10225208)
 
-Listening                Reading                  Spoken production
+20. A. M. Elkholy, D. I. Panfilov, A. E. ELGebaly. Identifying the Rating of the Unified Power Controller According to Unbalanced Distribution System Requirements. IEEE EDM, 2023, pp. 960–965. DOI (https://doi.org/10.1109/edm58354.2023.10225130)
 
-Spoken interaction
+21. D. I. Panfilov, A. M. Elkholy, A. E. ELGebaly. Evaluation of the Influence of AC Voltage Regulators, SVC and Unified Power Controllers on Power Losses and Quality in Unsymmetrical Distribution Systems. IEEE EDM, 2023, pp. 950–956. DOI (https://doi.org/10.1109/edm58354.2023.10225221)
 
-ENGLISH C1                                                     C2                           B2                           B2                           C1
+22. M. G. Hussien, A. M. Elkholy, D. A. Mansour, M. M. Akl, M. Numair, I. A. Soliman. Performance Enhancement of Wave Energy Converters Integrated with DC Grids Using Energy Storage Systems. IEEE MEPCON, 2021, pp. 77–83. DOI (https://doi.org/10.1109/mepcon50283.2021.9686294)
 
-RUSSIAN B1                                                    A2                           A2                           A2                           B1
+23. I. A. Soliman, M. Numair, M. M. Akl, D. A. Mansour, A. M. Elkholy, M. G. Hussien. Hosting Capacity Enhancement Through IoT-based Active Power Curtailment of PV Generation. IEEE MEPCON, 2021, pp. 259–264. DOI (https://doi.org/10.1109/mepcon50283.2021.9686240)
 
-Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proﬁcient user
+24. A. M. Elkholy, H. A. A. El-Ghany, A. M. Azmy. An Advanced Load Shedding Algorithm to Enhance Intentional-Islanding Dynamics. IEEE MEPCON, 2018, pp. 797–802. DOI (https://doi.org/10.1109/mepcon.2018.8635139)
 
-ADDITIONAL INFORMATION
-
-PUBLICATIONS
-
-A proposed load shedding mechanism for enhancing intentional-islanding dynamics of distribution systems
-– 2017
-Write here the description...
-
-10.1109/MEPCON.2017.8301282
-
-An Advanced Load Shedding Algorithm to Enhance Intentional-Islanding Dynamics – 2018
-
-10.1109/MEPCON.2018.8635139
-
-ISLANDING SCENARIOS FOR HIGH RELIABLE OPERATION OF DISTRIBUTION NETWORKS – 2020
-
-10.5281/ZENODO.5816968
-
-General Framework for Intentional Islanding to Enhance Distribution System Performance – 2020
-
-10.1080/15325008.2020.1856227
-
-Performance Enhancement of Wave Energy Converters Integrated with DC Grids Using Energy
-Storage Systems
-– 2021
-
-10.1109/MEPCON50283.2021.9686294
-
-Hosting Capacity Enhancement Through IoT-based Active Power Curtailment of PV Generation – 2021
-
-10.1109/MEPCON50283.2021.9686240
-
-Grid Synchronization Enhancement of Distributed Generators Using an Adaptive Phase-Locked Loop
-Tuning System
-– 2022
-
-10.3390/electronics11050702
-
-The Inﬂuence of Transmission-Line Parameters and Its Load on Losses and Power Quality at the
-Load-Connection Point
-– 2023
-
-10.3103/S1068371223060044
-
-Evaluation of Zero and Negative Sequence Currents Inﬂuence of Asymmetric Load on the Power
-Losses and Quality in Distribution Networks
-– 2023
-
-10.1109/EDM58354.2023.10225208
-Identifying the Rating of the Uniﬁed Power Controller According to Unbalanced Distribution System
-Requirements
-– 2023
-
-10.1109/EDM58354.2023.10225130
-
-Evaluation of the Inﬂuence of AC Voltage Regulators, SVC and Uniﬁed Power Controllers on Power
-Losses and Quality in Unsymmetrical Distribution Systems
-– 2023
-
-10.1109/EDM58354.2023.10225221
-
-NETWORKS AND MEMBERSHIPS
-
-Memberships Egyptian Engineering Syndicate 2014 – Present
-
-ORGANISATIONAL SKILLS
-
-Organisational skills
-• Ability to ensure projects run to schedule and budget and work under pressure
-•  Ability to work with minimum supervision and with a team
-•  Creative problem solving and analysis with attention to detail
-
-
-COMMUNICATION AND INTERPERSONAL SKILLS
-
-Communication and interpersonal skills
-• Good communications skills gained throw my experience as a demonstrator at the faculty of
-Engineering
-• Excellent contact skills with student gained through my experience as a demonstrator
-
-
-
-JOB-RELATED SKILLS
-
-Job-related skills
-
-• Developing models for various power system equipment
-• Developing and teaching eﬀective tutorials and lab sessions
-• Collaboration with the professors to set quizzes, assignments, and exams that meet the learning
-needs and abilities of all students
-• Collaboration with the professors to prepare lectures notes and PowerPoint presentations
-• Guiding and advising students in course/graduation projects
-
-B.SC. DEGREE THESIS
-
-B.Sc. Degree Thesis
-
-A. M. Elkholy et al, “The Impact of large wind energy penetration on the performance of electric power systems”, B.Sc. Graduation Thesis, Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta University, Tanta, Egypt, June 2014.
-Supervisor: Prof. Ahmed Refat Azmy
-Project Grade: Excellent (99%).
-
-
-M.SC. DEGREE THESIS
-
-M.Sc. Degree Thesis
-
-A. M. Elkholy et al, “Islanding Scenarios for High Reliable Operation of Distribution Networks”, M.Sc. Thesis, Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta University, Tanta, Egypt, April 2019.
-Supervisor: Prof. Ahmed Refat Azmy and Dr. Hossam Salah
-
-ACADEMIC REFEREES
-
-Academic referees
-Prof. Essam Eddin Mohamed Rashad
-Title: Head of Electrical Power and Machines Engineering Department
-Address: Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta
-University, Seperbay, Tanta 31521, Gharbeya Governorate, Egypt
-Tel.: +201222522507
-E-mail: emrashad@ieee.org
-
-Prof. Ahmed Refat Azmy
-Title: Professor at Electrical Power and Machines Engineering Department, Faculty of Engineering, Tanta
-University
-Address: Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta
-University, SeperbayTanta 31521, Gharbeya Governorate, Egypt
-Tel.: +20-122-9715040
-E-mail: azmy@f-eng.tanta.edu.eg
-
-Prof. Diaa Eldin Abdelsattar Mansour
-Title: Associate Professor at Electrical Power and Machines Engineering Department, Faculty of Engineering,
-Tanta University
-Address: Department of Electrical Power and Machines Engineering, Faculty of Engineering, Tanta
-University, SeperbayTanta 31521, Gharbeya Governorate, Egypt
-Tel.: +20-122-9715040
-E-mail: mansour@f-eng.tanta.edu.eg
-
-Prof. Dmitry I. Panﬁlov
-Title: Professor at Industrial Electronics Department, Moscow Power Engineering Institute, Moscow, Russia
-Address: National Research University "Moscow Power Engineering Institute", Krasnokazarmennaya 13c1,
-Moscow, 111250 Russia
-E-mail: dmitry.panﬁlov@inbox.ru
+25. A. M. Elkholy, H. A. A. El-Ghany, A. M. Azmy. A proposed load shedding mechanism for enhancing intentional-islanding dynamics of distribution systems. IEEE MEPCON, 2017, pp. 870–875. DOI (https://doi.org/10.1109/mepcon.2017.8301282)
